@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 * 🎓 B.E. in Computer and Communication Engineering
-* 🌱 Currently expanding my knowledge in full-stack development
+* 🚀 Actively deepening my expertise in backend development, focusing on modern frameworks and scalable architecture for end-to-end application delivery.
 * 🔧 Skilled in building secure, scalable RESTful APIs
 * 🧠 Focused on solving real-world problems through clean and efficient code
 * 🌍 Open to collaborations and exciting backend-focused roles
