@@ -1,40 +1,41 @@
 <h1 align="center">Hi there, I'm Gokula Krishnan 👋</h1>
-<p align="center">🚀 Passionate Backend Developer | 💻 Java & Spring Boot Enthusiast | 🔍 Always Learning</p>
+<p align="center">
+Backend Developer | Java & Spring Boot | Python (Learning) | Internship Experience
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 * 🎓 B.E. in Computer and Communication Engineering
-* 🚀 Actively deepening my expertise in backend development, focusing on modern frameworks and scalable architecture for end-to-end application delivery.
-* 🔧 Skilled in building secure, scalable RESTful APIs
-* 🧠 Focused on solving real-world problems through clean and efficient code
-* 🌍 Open to collaborations and exciting backend-focused roles
+* 💼 Completed an internship as an RPA Developer, gaining hands-on experience with real-world automation and backend logic
+* 🔧 Strong foundation in backend development using Java and Spring Boot, with experience building REST APIs and working with databases
+* 🐍 Actively focusing on Python for backend development and problem-solving
+* 🧠 Interested in writing clean, maintainable code and understanding how systems work end to end
+* 🌱 Continuously learning and improving through hands-on projects
 
 ---
 
 ### 🧰 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 * **🔬 Disease Prediction using Machine Learning**
-  - Developed a predictive model using real medical datasets to assess lung cancer risk, enabling early diagnosis and awareness.
+  - Built a lung cancer prediction model using Python and scikit-learn by working with medical datasets and basic ML pipelines.
 * **🩸 Blood Bank Management System**
-  - Created a full-stack platform to streamline blood requests and donations with real-time inventory and donor integration.
+  - Developed a web-based system to connect donors and recipients, focusing on data handling and backend logic.
 * **🛒 E-Commerce Website Backend**
-  - Built RESTful APIs for a scalable backend using Spring Boot, integrated OAuth login and secure data flow architecture.
+  - Designed and implemented RESTful APIs using Spring Boot with MySQL integration for core e-commerce functionalities.
 
 ---
 
@@ -47,14 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GokulkrishG&show_icons=true&theme=radical&hide=issues&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GokulkrishG&layout=compact&theme=radical"/>
-</p>
-
----
-
 <p align="center">
-🧩 Let’s code the future, one API at a time.
+Building backend skills step by step, one project at a time.
 </p>
