@@ -7,7 +7,7 @@ Backend Developer | Java & Spring Boot | Python (Learning) | Internship Experien
 
 ### 👨‍💻 About Me
 * 🎓 B.E. in Computer and Communication Engineering
-* 💼 Completed an internship as an RPA Developer, gaining hands-on experience with real-world automation and backend logic
+* 💼 Completed an 2.5 months of an internship as an RPA Developer, gaining hands-on experience with real-world automation and backend logic
 * 🔧 Strong foundation in backend development using Java and Spring Boot, with experience building REST APIs and working with databases
 * 🐍 Actively focusing on Python for backend development and problem-solving
 * 🧠 Interested in writing clean, maintainable code and understanding how systems work end to end
