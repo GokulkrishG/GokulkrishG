@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Gokula Krishnan 👋</h1>
 <p align="center">
-Backend Developer | Java & Spring Boot | Python (Learning) | Internship Experience
+Backend Developer | Java & Spring Boot | RPA Developer | Internship Experience
 </p>
 
 ---
